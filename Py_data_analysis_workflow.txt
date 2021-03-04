@@ -1,0 +1,18 @@
+1. Inquire
+
+2. Obtain
+	爬虫
+	API
+3. Scrub
+	Pandas
+	Numpy
+4. Explore
+	Matplotlib
+	Seaborn
+5. Model
+	Scikits learn
+	Scipy
+	TensorFlow
+6. Interpret
+	Bokeh
+	D3js
